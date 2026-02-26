@@ -87,6 +87,15 @@ Ein Mitarbeiter verlässt das Unternehmen.
 **Risiko ohne Kontrolle:**
 - Ehemalige Mitarbeiter behalten Zugriff (!! Audit Finding)
 
+- <img width="1887" height="892" alt="Leaver_enabled" src="https://github.com/user-attachments/assets/3876d5ec-7783-43d7-a41d-b7f7536e1ca2" />
+
+<img width="1891" height="876" alt="Leaver_disable_setting" src="https://github.com/user-attachments/assets/4b18d3ae-8eb4-4c1f-8283-6a12b5ad83b2" />
+
+<img width="1905" height="896" alt="Leaver_disable Session_revoke" src="https://github.com/user-attachments/assets/78caea75-15d2-48b1-a303-ca6621defc17" />
+
+
+
+
 ---
 
 ## 🔐 Sicherheitsrelevanz
