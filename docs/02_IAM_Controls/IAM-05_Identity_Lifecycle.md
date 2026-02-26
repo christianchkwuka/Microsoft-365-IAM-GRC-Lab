@@ -34,6 +34,13 @@ Ein neuer Mitarbeiter wird erstellt und erhält initiale Berechtigungen.
 **Risiko ohne Kontrolle:**
 - Benutzer erhält falsche oder zu viele Rechte
 
+<img width="1882" height="885" alt="User_creation" src="https://github.com/user-attachments/assets/c2110fa3-e669-40cc-a2b5-30965aeaa4ce" />
+
+<img width="1902" height="950" alt="User_John" src="https://github.com/user-attachments/assets/0a4b49ba-9fa1-40ca-ad56-a53d6ef79e9f" />
+
+<img width="1912" height="895" alt="User_in_group" src="https://github.com/user-attachments/assets/99ee1ef6-4a5a-4c1e-ab05-779bc618c0d9" />
+
+
 ---
 
 ## 🔄 2. Mover (Abteilungswechsel)
