@@ -61,6 +61,15 @@ Ein Benutzer wechselt Rolle oder Abteilung.
 
 ---
 
+<img width="1905" height="857" alt="Mover_John" src="https://github.com/user-attachments/assets/2b07e965-9c08-4b23-86e5-2a15598efd8a" />
+
+<img width="1913" height="852" alt="Move_John_2" src="https://github.com/user-attachments/assets/0ca44e94-862b-42f2-b5ed-65042713b708" />
+
+<img width="1891" height="873" alt="Moved_John_3" src="https://github.com/user-attachments/assets/24b758fe-52c2-4b46-9902-d2ecaae75052" />
+
+<img width="1892" height="878" alt="John_moved_sales" src="https://github.com/user-attachments/assets/799bfa0b-48fa-4141-b277-9d77c61f9644" />
+
+
 ## 🔴 3. Leaver (Austritt)
 
 **Beschreibung:**  
