@@ -1,6 +1,6 @@
 ## IAM-06 – Access Review
 
-### Ziel
+#### Ziel
 Regelmäßige Überprüfung von Gruppenmitgliedschaften zur Sicherstellung des Least-Privilege-Prinzips.
 
 ### Umsetzung im Lab
