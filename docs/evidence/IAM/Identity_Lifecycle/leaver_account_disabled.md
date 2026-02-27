@@ -4,3 +4,15 @@
 
 
 
+
+
+<img width="1891" height="876" alt="Leaver_disable_setting" src="https://github.com/user-attachments/assets/b9bce845-2ea4-4891-ac64-a19165107e0a" />
+
+
+
+<img width="1905" height="896" alt="Leaver_disable Session_revoke" src="https://github.com/user-attachments/assets/874d6916-1a95-417b-8d62-687b09639abb" />
+
+
+
+
+
