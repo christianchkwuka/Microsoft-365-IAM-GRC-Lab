@@ -4,7 +4,7 @@
 
 - **Project Name:** Microsoft 365 IAM GRC Lab
 - **Auditor:** Christian Chukwuka
-- **Date:** 2026-02-XX
+- **Date:** 2026-02-28
 - **Scope:** Identity & Access Management (IAM)
 - **Environment:** Microsoft Entra ID (Azure AD)
 
